@@ -1,0 +1,32 @@
+/*
+.sapTntSideNavigationFlexible {
+  // background-color: #f5f6f7;  
+}
+ 
+.sapTntToolPageAside {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  will-change: transform;
+  margin: 0.2rem 0.2rem 0 0;
+}
+.sapTntToolHeader.sapMTB {
+  height: 3.25rem;
+  border-radius: 0rem;
+  box-shadow: 0 0 0.125rem 0 rgba(34, 53, 72, 0.16),
+    0 0.5rem 1rem 0 rgba(34, 53, 72, 0.16);
+}
+.sapTntToolPageMain {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  will-change: transform;
+  margin: 0.2rem 0 0 0;
+  box-shadow: 0 0 0.125rem 0 rgba(34, 53, 72, 0.16),
+    0 0.5rem 1rem 0 rgba(34, 53, 72, 0.16);
+  border-radius: 0.5rem 0.5rem 0 0;
+  background: #f5f6f7;
+}
+*/

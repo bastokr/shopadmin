@@ -16,32 +16,52 @@
 			"items": []
 		},
 		{
-			"titleI18nKey": "이미지목록",
-			"icon": "sap-icon://search",
-			"expanded": false,
-			"key": "ImageView",
-			"items": []
-		},
-		{
-			"titleI18nKey": "작업리스트",
-			"icon": "sap-icon://search",
-			"expanded": false,
-			"key": "WorkList",
-			"items": []
-		},
-		{
-			"titleI18nKey": "sideContentStatistics",
+			"titleI18nKey": "영업관리",
 			"icon": "sap-icon://line-chart",
 			"expanded": true,
 			"key": "statistics",
 			"items": [
 				{
-					"titleI18nKey": "sideContentUsageStatistics",
+					"titleI18nKey": "수주관리",
 					"key": "usageStatistics"
 				},
 				{
-					"titleI18nKey": "sideContentOrderStatistics",
+					"titleI18nKey": "주문관리",
 					"key": "orderStatistics"
+				}
+			]
+		},
+		{
+			"titleI18nKey": "구매관리",
+			"icon": "sap-icon://line-chart",
+			"expanded": false,
+			"key": "statistics",
+			"items": [
+				{
+					"titleI18nKey": "발주요청",
+					"key": "usageStatistics"
+				}
+			]
+		},
+		{
+			"titleI18nKey": "재고관리",
+			"icon": "sap-icon://line-chart",
+			"expanded": false,
+			"key": "statistics",
+			"items": [
+				{
+					"titleI18nKey": "이미지목록",
+					"icon": "sap-icon://search",
+					"expanded": false,
+					"key": "ImageView",
+					"items": []
+				},
+				{
+					"titleI18nKey": "작업리스트",
+					"icon": "sap-icon://search",
+					"expanded": false,
+					"key": "WorkList",
+					"items": []
 				}
 			]
 		}

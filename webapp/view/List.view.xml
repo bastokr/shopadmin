@@ -36,7 +36,11 @@
 			icon="{products>ProductPicUrl}"
 			iconDensityAware="false"
 			iconInset="false"
-			press="handlePress"
-			detailPress="handleDetailPress" />
+			press="handlePress" 
+			detailPress="handleDetailPress" 
+			 type="Detail"
+			/>
+ 
+			 
 	</List>
 </mvc:View>
