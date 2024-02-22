@@ -50,14 +50,14 @@
 			"key": "statistics",
 			"items": [
 				{
-					"titleI18nKey": "이미지목록",
+					"titleI18nKey": "제고리스트",
 					"icon": "sap-icon://search",
 					"expanded": false,
 					"key": "ImageView",
 					"items": []
 				},
 				{
-					"titleI18nKey": "작업리스트",
+					"titleI18nKey": "재고조정",
 					"icon": "sap-icon://search",
 					"expanded": false,
 					"key": "WorkList",
