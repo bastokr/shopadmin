@@ -10,7 +10,7 @@
 				<core:HTML
 						id="iframeWrapper"
 						preferDOM="false"
-						content='&lt;div class="sapUiTopicsDiv"&gt;&lt;iframe {/iframeAttribute} style="width:100%;height:1000px" class="sapUiTopicsIframe" name="content" src="/abc/index.html" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;'
+						content='&lt;div class="sapUiTopicsDiv"&gt;&lt;iframe {/iframeAttribute} style="width:100%;height:1000px" class="sapUiTopicsIframe" name="content" src="/employ/index.html" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;'
 					/>
 		</Page>
 			</l:SplitPane>
