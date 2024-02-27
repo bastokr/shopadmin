@@ -1,0 +1,25 @@
+ 
+<mvc:View
+	controllerName="sap.ui.demo.toolpageapp.controller.CustomElements"
+	xmlns:l="sap.ui.layout"
+	xmlns:core="sap.ui.core"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m"
+	xmlns:fpmExplorer="sap.fe.core.fpmExplorer.controls"
+>
+	<l:ResponsiveSplitter id="splitView">
+		<l:PaneContainer id="explorerPaneContainer" orientation="Horizontal">
+			<l:SplitPane id="explorerPane" requiredParentWidth="1">
+				<Page>
+					 
+					<core:HTML
+						id="iframeWrapper"
+						preferDOM="false"
+						content='&lt;div class="sapUiTopicsDiv"&gt;&lt;iframe {/iframeAttribute} class="sapUiTopicsIframe" name="content" src="/abc/index.html" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;'
+					/>
+				</Page>
+			</l:SplitPane>
+		 
+		</l:PaneContainer>
+	</l:ResponsiveSplitter>
+</mvc:View>

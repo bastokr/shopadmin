@@ -294,6 +294,11 @@
 					"pattern": "Worklist",
 					"name": "worklist",
 					"target": "worklist"
+				},
+				{
+					"pattern": "CustomElements",
+					"name": "customElements",
+					"target": "customElements"
 				}
 			],
 			"targets": {
@@ -346,6 +351,10 @@
 				"worklist": {
 					"viewId": "worklist",
 					"viewName": "Worklist"
+				},
+				"customElements": {
+					"viewId": "customElements",
+					"viewName": "CustomElements"
 				}
 			}
 		}
